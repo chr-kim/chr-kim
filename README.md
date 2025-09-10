@@ -1,4 +1,4 @@
-# 🌟 Meta Portfolio by [Your Name]
+# 🌟 Meta Portfolio by [Chrian Kim]
 
 ## 📚 Overview
 Problem-solving oriented, data-driven results and measurable improvements from diverse real-world engineering and project management experiences.
